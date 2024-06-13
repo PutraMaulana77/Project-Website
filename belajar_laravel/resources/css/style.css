@@ -1,0 +1,18 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.card-header {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+}
+
+.img-body {
+    width: 50%;
+    margin: 0 auto;
+}
